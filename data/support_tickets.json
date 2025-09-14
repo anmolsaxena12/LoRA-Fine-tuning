@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "title": "Support Tickets - Sample",
+      "paragraphs": [
+        {
+          "context": "User reports that the application throws a 500 error when uploading large CSV files. The error occurs after a timeout and the user sees 'Internal Server Error'. The team recommends increasing the request timeout and validating the CSV size before upload.",
+          "qas": [
+            {
+              "id": "t1_q1",
+              "question": "What error does the user see when uploading large CSV files?",
+              "answers": [
+                {
+                  "text": "Internal Server Error",
+                  "answer_start": 89
+                }
+              ]
+            },
+            {
+              "id": "t1_q2",
+              "question": "What is the recommended mitigation?",
+              "answers": [
+                {
+                  "text": "increasing the request timeout and validating the CSV size before upload",
+                  "answer_start": 120
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "A customer cannot authenticate using SSO. The identity provider returns an invalid assertion and the logs show 'SAML assertion not valid'. The recommended action is to check the SAML certificate and time skew.",
+          "qas": [
+            {
+              "id": "t2_q1",
+              "question": "What does the identity provider return?",
+              "answers": [
+                {
+                  "text": "an invalid assertion",
+                  "answer_start": 44
+                }
+              ]
+            },
+            {
+              "id": "t2_q2",
+              "question": "What should be checked as a recommended action?",
+              "answers": [
+                {
+                  "text": "the SAML certificate and time skew",
+                  "answer_start": 120
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
