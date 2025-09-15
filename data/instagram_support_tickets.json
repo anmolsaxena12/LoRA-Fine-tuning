@@ -1,0 +1,759 @@
+{
+  "data": [
+    {
+      "title": "Instagram IT Support Tickets",
+      "paragraphs": [
+        {
+          "context": "Several users are experiencing delays in receiving direct messages. Messages show as sent but not delivered.",
+          "qas": [
+            {
+              "id": "insta_ticket_1",
+              "question": "What issue do users face with direct messages?",
+              "answers": [
+                {
+                  "text": "Messages show as sent but not delivered",
+                  "answer_start": 68
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "A user reports being unable to log into their Instagram account using the mobile app. They receive an error stating 'Incorrect Password' despite using the correct credentials.",
+          "qas": [
+            {
+              "id": "insta_ticket_2",
+              "question": "What anomaly is reported with Instagram Insights?",
+              "answers": [
+                {
+                  "text": "Zero reach and impressions despite engagement",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "A user reports being unable to log into their Instagram account using the mobile app. They receive an error stating 'Incorrect Password' despite using the correct credentials.",
+          "qas": [
+            {
+              "id": "insta_ticket_3",
+              "question": "What message do users see when feed fails?",
+              "answers": [
+                {
+                  "text": "Couldn\u2019t refresh feed",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Multiple users are reporting that Instagram stories are not loading, and they only see a spinning wheel.",
+          "qas": [
+            {
+              "id": "insta_ticket_4",
+              "question": "What functionality is not working?",
+              "answers": [
+                {
+                  "text": "Switching between multiple accounts",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "A user claims that their profile bio keeps resetting to default text after they save changes.",
+          "qas": [
+            {
+              "id": "insta_ticket_5",
+              "question": "What anomaly is reported with Instagram Insights?",
+              "answers": [
+                {
+                  "text": "Zero reach and impressions despite engagement",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Several users are experiencing delays in receiving direct messages. Messages show as sent but not delivered.",
+          "qas": [
+            {
+              "id": "insta_ticket_6",
+              "question": "What error message does the user receive?",
+              "answers": [
+                {
+                  "text": "Incorrect Password",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "A user complains that they are not able to switch between multiple accounts linked on their device.",
+          "qas": [
+            {
+              "id": "insta_ticket_7",
+              "question": "What error message does the user receive?",
+              "answers": [
+                {
+                  "text": "Incorrect Password",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Some users report seeing 'Couldn\u2019t refresh feed' message repeatedly when opening the app.",
+          "qas": [
+            {
+              "id": "insta_ticket_8",
+              "question": "What problem is reported with profile bio?",
+              "answers": [
+                {
+                  "text": "Bio keeps resetting to default text",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "A business account owner reports that Instagram Insights are showing zero reach and impressions even though posts have engagement.",
+          "qas": [
+            {
+              "id": "insta_ticket_9",
+              "question": "What problem is reported about posts visibility?",
+              "answers": [
+                {
+                  "text": "Posts are not showing up on followers' feeds",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Some users report seeing 'Couldn\u2019t refresh feed' message repeatedly when opening the app.",
+          "qas": [
+            {
+              "id": "insta_ticket_10",
+              "question": "What happens when the creator tries to post reels?",
+              "answers": [
+                {
+                  "text": "They see 'Upload Failed'",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "A user complains that they are not able to switch between multiple accounts linked on their device.",
+          "qas": [
+            {
+              "id": "insta_ticket_11",
+              "question": "What problem is reported with profile bio?",
+              "answers": [
+                {
+                  "text": "Bio keeps resetting to default text",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Some users report seeing 'Couldn\u2019t refresh feed' message repeatedly when opening the app.",
+          "qas": [
+            {
+              "id": "insta_ticket_12",
+              "question": "What issue are users facing with stories?",
+              "answers": [
+                {
+                  "text": "Stories are not loading",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Some users report seeing 'Couldn\u2019t refresh feed' message repeatedly when opening the app.",
+          "qas": [
+            {
+              "id": "insta_ticket_13",
+              "question": "What problem is reported about posts visibility?",
+              "answers": [
+                {
+                  "text": "Posts are not showing up on followers' feeds",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Several users are experiencing delays in receiving direct messages. Messages show as sent but not delivered.",
+          "qas": [
+            {
+              "id": "insta_ticket_14",
+              "question": "What issue do users face with direct messages?",
+              "answers": [
+                {
+                  "text": "Messages show as sent but not delivered",
+                  "answer_start": 68
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "A user reports that their posts are not showing up on their followers' feeds despite posting multiple times.",
+          "qas": [
+            {
+              "id": "insta_ticket_15",
+              "question": "What problem is reported with profile bio?",
+              "answers": [
+                {
+                  "text": "Bio keeps resetting to default text",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "A user complains that they are not able to switch between multiple accounts linked on their device.",
+          "qas": [
+            {
+              "id": "insta_ticket_16",
+              "question": "What issue are users facing with stories?",
+              "answers": [
+                {
+                  "text": "Stories are not loading",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "A user reports that their posts are not showing up on their followers' feeds despite posting multiple times.",
+          "qas": [
+            {
+              "id": "insta_ticket_17",
+              "question": "What issue do users face with direct messages?",
+              "answers": [
+                {
+                  "text": "Messages show as sent but not delivered",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Several users are experiencing delays in receiving direct messages. Messages show as sent but not delivered.",
+          "qas": [
+            {
+              "id": "insta_ticket_18",
+              "question": "What happens when the creator tries to post reels?",
+              "answers": [
+                {
+                  "text": "They see 'Upload Failed'",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "A content creator complains that their Instagram reels are not getting published, and they see an error 'Upload Failed'.",
+          "qas": [
+            {
+              "id": "insta_ticket_19",
+              "question": "What issue do users face with direct messages?",
+              "answers": [
+                {
+                  "text": "Messages show as sent but not delivered",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "A user reports that their posts are not showing up on their followers' feeds despite posting multiple times.",
+          "qas": [
+            {
+              "id": "insta_ticket_20",
+              "question": "What issue are users facing with stories?",
+              "answers": [
+                {
+                  "text": "Stories are not loading",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "A business account owner reports that Instagram Insights are showing zero reach and impressions even though posts have engagement.",
+          "qas": [
+            {
+              "id": "insta_ticket_21",
+              "question": "What anomaly is reported with Instagram Insights?",
+              "answers": [
+                {
+                  "text": "Zero reach and impressions despite engagement",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Several users are experiencing delays in receiving direct messages. Messages show as sent but not delivered.",
+          "qas": [
+            {
+              "id": "insta_ticket_22",
+              "question": "What message do users see when feed fails?",
+              "answers": [
+                {
+                  "text": "Couldn\u2019t refresh feed",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "A business account owner reports that Instagram Insights are showing zero reach and impressions even though posts have engagement.",
+          "qas": [
+            {
+              "id": "insta_ticket_23",
+              "question": "What action did the hacker take?",
+              "answers": [
+                {
+                  "text": "changed the email associated with the account",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "A user reports being unable to log into their Instagram account using the mobile app. They receive an error stating 'Incorrect Password' despite using the correct credentials.",
+          "qas": [
+            {
+              "id": "insta_ticket_24",
+              "question": "What problem is reported about posts visibility?",
+              "answers": [
+                {
+                  "text": "Posts are not showing up on followers' feeds",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "A user complains that they are not able to switch between multiple accounts linked on their device.",
+          "qas": [
+            {
+              "id": "insta_ticket_25",
+              "question": "What problem is reported with profile bio?",
+              "answers": [
+                {
+                  "text": "Bio keeps resetting to default text",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "A user reports that their posts are not showing up on their followers' feeds despite posting multiple times.",
+          "qas": [
+            {
+              "id": "insta_ticket_26",
+              "question": "What action did the hacker take?",
+              "answers": [
+                {
+                  "text": "changed the email associated with the account",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Some users report seeing 'Couldn\u2019t refresh feed' message repeatedly when opening the app.",
+          "qas": [
+            {
+              "id": "insta_ticket_27",
+              "question": "What action did the hacker take?",
+              "answers": [
+                {
+                  "text": "changed the email associated with the account",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Several users are experiencing delays in receiving direct messages. Messages show as sent but not delivered.",
+          "qas": [
+            {
+              "id": "insta_ticket_28",
+              "question": "What action did the hacker take?",
+              "answers": [
+                {
+                  "text": "changed the email associated with the account",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Some users report seeing 'Couldn\u2019t refresh feed' message repeatedly when opening the app.",
+          "qas": [
+            {
+              "id": "insta_ticket_29",
+              "question": "What anomaly is reported with Instagram Insights?",
+              "answers": [
+                {
+                  "text": "Zero reach and impressions despite engagement",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Multiple users are reporting that Instagram stories are not loading, and they only see a spinning wheel.",
+          "qas": [
+            {
+              "id": "insta_ticket_30",
+              "question": "What problem is reported about posts visibility?",
+              "answers": [
+                {
+                  "text": "Posts are not showing up on followers' feeds",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "A user claims that their profile bio keeps resetting to default text after they save changes.",
+          "qas": [
+            {
+              "id": "insta_ticket_31",
+              "question": "What error message does the user receive?",
+              "answers": [
+                {
+                  "text": "Incorrect Password",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "A user reports being unable to log into their Instagram account using the mobile app. They receive an error stating 'Incorrect Password' despite using the correct credentials.",
+          "qas": [
+            {
+              "id": "insta_ticket_32",
+              "question": "What anomaly is reported with Instagram Insights?",
+              "answers": [
+                {
+                  "text": "Zero reach and impressions despite engagement",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "A user claims that their profile bio keeps resetting to default text after they save changes.",
+          "qas": [
+            {
+              "id": "insta_ticket_33",
+              "question": "What functionality is not working?",
+              "answers": [
+                {
+                  "text": "Switching between multiple accounts",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "An Instagram user complains that their account has been hacked and the email associated with the account has been changed.",
+          "qas": [
+            {
+              "id": "insta_ticket_34",
+              "question": "What problem is reported with profile bio?",
+              "answers": [
+                {
+                  "text": "Bio keeps resetting to default text",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Multiple users are reporting that Instagram stories are not loading, and they only see a spinning wheel.",
+          "qas": [
+            {
+              "id": "insta_ticket_35",
+              "question": "What issue are users facing with stories?",
+              "answers": [
+                {
+                  "text": "Stories are not loading",
+                  "answer_start": 44
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "A user reports being unable to log into their Instagram account using the mobile app. They receive an error stating 'Incorrect Password' despite using the correct credentials.",
+          "qas": [
+            {
+              "id": "insta_ticket_36",
+              "question": "What error message does the user receive?",
+              "answers": [
+                {
+                  "text": "Incorrect Password",
+                  "answer_start": 117
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "A user reports that their posts are not showing up on their followers' feeds despite posting multiple times.",
+          "qas": [
+            {
+              "id": "insta_ticket_37",
+              "question": "What issue are users facing with stories?",
+              "answers": [
+                {
+                  "text": "Stories are not loading",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "An Instagram user complains that their account has been hacked and the email associated with the account has been changed.",
+          "qas": [
+            {
+              "id": "insta_ticket_38",
+              "question": "What error message does the user receive?",
+              "answers": [
+                {
+                  "text": "Incorrect Password",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "An Instagram user complains that their account has been hacked and the email associated with the account has been changed.",
+          "qas": [
+            {
+              "id": "insta_ticket_39",
+              "question": "What functionality is not working?",
+              "answers": [
+                {
+                  "text": "Switching between multiple accounts",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "A user claims that their profile bio keeps resetting to default text after they save changes.",
+          "qas": [
+            {
+              "id": "insta_ticket_40",
+              "question": "What happens when the creator tries to post reels?",
+              "answers": [
+                {
+                  "text": "They see 'Upload Failed'",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "A business account owner reports that Instagram Insights are showing zero reach and impressions even though posts have engagement.",
+          "qas": [
+            {
+              "id": "insta_ticket_41",
+              "question": "What action did the hacker take?",
+              "answers": [
+                {
+                  "text": "changed the email associated with the account",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "An Instagram user complains that their account has been hacked and the email associated with the account has been changed.",
+          "qas": [
+            {
+              "id": "insta_ticket_42",
+              "question": "What issue do users face with direct messages?",
+              "answers": [
+                {
+                  "text": "Messages show as sent but not delivered",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "A user reports that their posts are not showing up on their followers' feeds despite posting multiple times.",
+          "qas": [
+            {
+              "id": "insta_ticket_43",
+              "question": "What problem is reported with profile bio?",
+              "answers": [
+                {
+                  "text": "Bio keeps resetting to default text",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "A user complains that they are not able to switch between multiple accounts linked on their device.",
+          "qas": [
+            {
+              "id": "insta_ticket_44",
+              "question": "What happens when the creator tries to post reels?",
+              "answers": [
+                {
+                  "text": "They see 'Upload Failed'",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "An Instagram user complains that their account has been hacked and the email associated with the account has been changed.",
+          "qas": [
+            {
+              "id": "insta_ticket_45",
+              "question": "What functionality is not working?",
+              "answers": [
+                {
+                  "text": "Switching between multiple accounts",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "A business account owner reports that Instagram Insights are showing zero reach and impressions even though posts have engagement.",
+          "qas": [
+            {
+              "id": "insta_ticket_46",
+              "question": "What happens when the creator tries to post reels?",
+              "answers": [
+                {
+                  "text": "They see 'Upload Failed'",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "A user claims that their profile bio keeps resetting to default text after they save changes.",
+          "qas": [
+            {
+              "id": "insta_ticket_47",
+              "question": "What functionality is not working?",
+              "answers": [
+                {
+                  "text": "Switching between multiple accounts",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "An Instagram user complains that their account has been hacked and the email associated with the account has been changed.",
+          "qas": [
+            {
+              "id": "insta_ticket_48",
+              "question": "What anomaly is reported with Instagram Insights?",
+              "answers": [
+                {
+                  "text": "Zero reach and impressions despite engagement",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "A user claims that their profile bio keeps resetting to default text after they save changes.",
+          "qas": [
+            {
+              "id": "insta_ticket_49",
+              "question": "What functionality is not working?",
+              "answers": [
+                {
+                  "text": "Switching between multiple accounts",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "A content creator complains that their Instagram reels are not getting published, and they see an error 'Upload Failed'.",
+          "qas": [
+            {
+              "id": "insta_ticket_50",
+              "question": "What error message does the user receive?",
+              "answers": [
+                {
+                  "text": "Incorrect Password",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
